@@ -1,0 +1,17 @@
+{
+  "name": "jest-esmodules",
+  "version": "1.0.0",
+  "module": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
+  "license": "MIT",
+  "type": "module",
+  "description": ""
+}
